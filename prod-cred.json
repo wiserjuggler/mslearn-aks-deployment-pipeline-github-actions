@@ -1,0 +1,9 @@
+{
+    "name": "varun-learning-production-cred",
+    "issuer": "https://token.actions.githubusercontent.com",
+    "subject": "repo:wiserjuggler/mslearn-aks-deployment-pipeline-github-actions:ref:refs/tags/v2.0.3",
+    "description": "Testing",
+    "audiences": [
+        "api://AzureADTokenExchange"
+    ]
+  }

@@ -5,3 +5,10 @@
 -> AKS Cluster Name: contoso-video
 -> AKS DNS Zone Name: 3c4e03680dcb4eb29777.eastus.aksapp.io
 -> GITHUB PAT TOKEN: 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
+
+{
+  "appId": "0b3d4f94-ea4a-486f-8c9f-f20d25339127",
+  "displayName": "azure-cli-2023-11-08-21-43-30",
+  "password": "vuS8Q~Zbx8dUm6fpMZr4MyUByiXfT~Rvnw7xFadW",
+  "tenant": "12f383e1-9f31-415d-b4d7-914125032f4c"
+}

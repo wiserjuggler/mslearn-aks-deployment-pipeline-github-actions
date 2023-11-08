@@ -1,0 +1,9 @@
+{
+    "name": "varun-learning-staging-cred",
+    "issuer": "https://token.actions.githubusercontent.com",
+    "subject": "repo:wiserjuggler/mslearn-aks-deployment-pipeline-github-actions:ref:refs/head/main",
+    "description": "Testing",
+    "audiences": [
+        "api://AzureADTokenExchange"
+    ]
+  }
