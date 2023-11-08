@@ -1,0 +1,7 @@
+-> Resource Group Name: mslearn-gh-pipelines-24544
+-> ACR Name: contosocontainerregistry4604
+-> ACR Login Username: contosocontainerregistry4604
+-> ACR Password: 8Ny1P5Q4NhGYFGaH7HNcIIBhSnyU/MXHquFnoO6pUe+ACRDhas2g
+-> AKS Cluster Name: contoso-video
+-> AKS DNS Zone Name: 3c4e03680dcb4eb29777.eastus.aksapp.io
+-> GITHUB PAT TOKEN: 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
