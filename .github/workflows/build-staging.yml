@@ -1,5 +1,9 @@
 name: Build and push the latest build to staging
 
+permissions:
+  id-token: write
+  contents: read
+
 on:
   push:
     branches: [ main ]
@@ -31,9 +35,6 @@ jobs:
   deploy:
     runs-on: ubuntu-20.04
     needs: build_push_image
-    permissions:
-      id-token: write
-      contents: read
 
     steps:
       - uses: actions/checkout@v2
